@@ -23,14 +23,6 @@ LinkedIn Post Generator is a sleek, user-friendly application that transforms yo
 - **AI Integration**: Advanced natural language processing to generate relevant professional content
 - **Error Handling**: Robust network error management with fallback options
 
-## 📱 Screenshots
-
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://via.placeholder.com/250x500/EEEEEE/999999?text=Home+Screen" width="30%" alt="Home Screen"/>
-  <img src="https://via.placeholder.com/250x500/EEEEEE/999999?text=Generated+Post" width="30%" alt="Generated Post"/>
-  <img src="https://via.placeholder.com/250x500/EEEEEE/999999?text=Sharing+Options" width="30%" alt="Sharing Options"/>
-</div>
-
 
 ## 🌐 Backend Configuration
 

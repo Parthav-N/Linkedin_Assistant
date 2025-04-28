@@ -2,8 +2,6 @@
 
 A modern Flutter application that helps professionals create engaging LinkedIn posts with the power of AI.
 
-![LinkedIn Post Generator Banner](https://via.placeholder.com/800x200/0077B5/FFFFFF?text=LinkedIn+Post+Generator)
-
 ## 🚀 Overview
 
 LinkedIn Post Generator is a sleek, user-friendly application that transforms your ideas into polished LinkedIn posts. Whether you're sharing industry insights, professional achievements, or thought leadership content, this app helps you craft the perfect message to engage your professional network.

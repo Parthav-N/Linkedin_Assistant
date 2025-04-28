@@ -26,7 +26,7 @@ LinkedIn Post Generator is a sleek, user-friendly application that transforms yo
 
 The app connects to a backend service hosted on Render. If you want to run your own backend:
 
-1. Clone the backend repository ([link to your backend repo](https://github.com/Parthav-N/Linkedin_Post_Generator_Backend))
+1. Clone the backend repository ([backend repo](https://github.com/Parthav-N/Linkedin_Post_Generator_Backend))
 2. Deploy it to your preferred hosting service
 3. Update the `baseUrls` list in the `_makeNetworkRequest` method
 

@@ -1,0 +1,19 @@
+{
+    "version": 2,
+    "builds": [
+      {
+        "src": "backend_gemini.py",
+        "use": "@vercel/python",
+        "config": {
+          "maxLambdaSize": "256mb"
+        }
+      }
+    ],
+    "routes": [
+      {
+        "src": "/(.*)",
+        "dest": "backend_gemini.py"
+      }
+    ]
+  }
+  
